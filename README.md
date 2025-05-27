@@ -27,4 +27,5 @@
 ![Static Badge](https://img.shields.io/badge/CloudFlare-orange?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <hr>
