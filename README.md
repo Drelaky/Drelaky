@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="https://discord.com/users/374615928760958979">
-  <img src="https://lanyard.cnrad.dev/api/374615928760958979?theme=dark&showDisplayName=true" />
+  <img src="https://lanyard.cnrad.dev/api/374615928760958979?theme=dark&showDisplayName=true" align="right">
 </a>
 
 - 🌱 I’m a Software Engineer from Hungary
