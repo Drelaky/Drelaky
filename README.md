@@ -11,7 +11,7 @@
   <div align="center">
   </div>
 <li>
- <b>Name:</b> Drelaky</li>
+ <b>Name:</b> Tomi</li>
 <li>
 <b>Loves:</b> anime, sleep, VR games
 </li>
