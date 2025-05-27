@@ -7,6 +7,7 @@
 - 🔥 Discord.js && Angular, NestJS, TypeScript enjoyer
 - 🎮 Fav games: Ghost of Tsushima, Beat Saber, Crusaider kings 3
 - ⚡ 18+
+- 🐈 Cat enjoyer
   
 <hr>
 
