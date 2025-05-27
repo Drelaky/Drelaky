@@ -1,17 +1,51 @@
-## Hi there 👋
-<a href="https://discord.com/users/374615928760958979">
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+
+<div align="center">
+  <p>Code is like humor: if you have to explain it,</p>
+  <p>it’s probably not that good.</p>
+  <p>Clean code speaks for itself,</p>
+  <p>messy code just screams confusion.</p>
+</div>
+
+<h2 align="center"> 😺 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 😺 </h2>
+  <div align="center">
+  </div>
+<li>
+ <b>Name:</b> Drelaky</li>
+<li>
+<b>Loves:</b> anime, sleep, VR games
+</li>
+<li>
+<b>Gender:</b> he/him/Male
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Gaming, Streaming, Web Development
+</li>
+<br><br><br>
+</div>
+<div>
+
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+ <br>
+<p>
+  <div align="center">
+    <a href="https://discord.com/users/374615928760958979">
   <img src="https://lanyard.cnrad.dev/api/374615928760958979?theme=dark&showDisplayName=true" align="right">
 </a>
+  </div>
+</div>
+<div>
 
 - 🌱 I’m a Software Engineer from Hungary
 - 🔥 Discord.js && Angular, NestJS, TypeScript enjoyer
 - 🎮 Fav games: Ghost of Tsushima, Beat Saber, Crusaider kings 3
 - ⚡ 18+
 - 🐈 Cat enjoyer
-  
-<hr>
 
-### My stack 💻
+  </div>
+<br>
+
+<h2 align="center">            ~ 💻 𝓜𝔂 𝓼𝓽𝓪𝓬𝓴 💻 ~</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
